@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Infinity Stones</string>
+    <string name="stone4">You got Power Stone!!</string>
+    <string name="stone3">You got Space Stone!!</string>
+    <string name="stone1">You got Time Stone!!</string>
+    <string name="stone2">You got Reality Stone!!</string>
+    <string name="stone5">You got Soul Stone!!</string>
+    <string name="stone6">You got Mind Stone!!</string>
+    <string name="defaultxt">Click This Button</string>
+
+    <string name="stone4t">Power Stone</string>
+    <string name="stone3t">Space Stone</string>
+    <string name="stone1t">Time Stone</string>
+    <string name="stone2t">Reality Stone</string>
+    <string name="stone5t">Soul Stone</string>
+    <string name="stone6t">Mind Stone</string>
+
+
+</resources>
